@@ -5233,6 +5233,39 @@ Created using IcoMoon - icomoon.io
   .progress-container .aos-animate {
     transform: scaleX(1); }
 
+/* Professional Certifications Style */
+.cc-certification .h5 {
+  margin-bottom: 0; }
+  
+    /* Professional Certifications */
+.cc-certification .cc-certification-header {
+  /* padding-top: 60px; */
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase; }
+
+    .timeline-card {
+      position: relative;
+      margin-left: 16px; }
+    
+    .timeline-card:before {
+      content: '';
+      display: inline-block;
+      position: absolute;
+      background-color: #fff;
+      border-radius: 100%;
+      width: 24px;
+      height: 24px;
+      top: 18px;
+      left: -12px;
+      border: 5px solid;
+      border-color: #2e4b8b;
+      z-index: 2; }
+    
+    .timeline-body {
+      border-left: 2px solid #E6E9ED; }
+
 /* Experience Style */
 .cc-experience .cc-experience-header {
   padding-top: 60px;
