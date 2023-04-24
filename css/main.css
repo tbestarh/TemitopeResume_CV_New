@@ -2276,7 +2276,7 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1em;
   font-weight: 700;
-  text-transform: uppercase; }
+  text-transform:capitalize; }
 
 p {
   line-height: 1.61em; }
@@ -2803,7 +2803,7 @@ body {
 
 img {
   max-width: 100%;
-  height: -webkit-fill-available;
+  height: initial;
   border-radius: 1px; }
 
 .img-raised {
