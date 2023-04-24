@@ -2275,7 +2275,7 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1em;
-  font-weight: 700;
+  /* font-weight: 700; */
   text-transform:capitalize; }
 
 p {
