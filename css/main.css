@@ -2803,7 +2803,7 @@ body {
 
 img {
   max-width: 100%;
-  height: initial;
+  height: 100%;
   border-radius: 1px; }
 
 .img-raised {
